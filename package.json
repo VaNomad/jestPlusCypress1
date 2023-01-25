@@ -1,0 +1,26 @@
+{
+  "name": "jestpluscypress1",
+  "version": "0.0.1",
+  "description": "Testing Jest + Cypress setup environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaNomad/jestPlusCypress1.git"
+  },
+  "keywords": [
+    "test",
+    "setup",
+    "test-environment",
+    "cypress",
+    "jest"
+  ],
+  "author": "Sjur Hassel <sjur.hassel@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaNomad/jestPlusCypress1/issues"
+  },
+  "homepage": "https://github.com/VaNomad/jestPlusCypress1#readme"
+}
